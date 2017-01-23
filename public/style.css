@@ -6,3 +6,25 @@
 .red-quote{
   color: red;
 }
+
+#heading {
+  text-align: center;
+  font-size: 50px;
+}
+
+body {
+  font-family: 'Lakki Reddy', cursive;
+  background-color: LightSeaGreen;
+}
+
+#cats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {
+      border-radius: 100%;
+      border: 50px solid transparent;
+      border-image: url(http://www.clipartkid.com/images/594/animation-bundle-animated-cats-jumping-playing-and-running-around-see-xL5d9E-clipart.gif);
+}
